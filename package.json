@@ -1,0 +1,26 @@
+{
+  "name": "inverted-promise",
+  "version": "0.0.0",
+  "description": "When you want to resolve/reject a promise from the outside",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "standard",
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/inverted-promise.git"
+  },
+  "keywords": [],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/inverted-promise/issues"
+  },
+  "homepage": "https://github.com/emilbayes/inverted-promise#readme"
+}
