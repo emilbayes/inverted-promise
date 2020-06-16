@@ -1,5 +1,7 @@
 # `inverted-promise`
 
+[![Build Status](https://travis-ci.org/emilbayes/inverted-promise.svg?branch=master)](https://travis-ci.org/emilbayes/inverted-promise)
+
 > When you want to resolve/reject a promise from the outside
 
 ## Usage
