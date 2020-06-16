@@ -1,6 +1,6 @@
 {
   "name": "inverted-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "When you want to resolve/reject a promise from the outside",
   "main": "index.js",
   "publishConfig": {
